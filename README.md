@@ -45,18 +45,13 @@ You can report issues here.
 
 ## Authors 
 
-* **Slatyoo**
+* [**Slatyoo**](https://github.com/slatyo)
 
 ## Contributors
 
-* **marcreichel**
+* [**marcreichel**](https://github.com/marcreichel)
 
 ## Extras
 
 You can join our [Discord](https://discord.gg/XuHNPkC) if you want.
 There we discuss further steps - do brainstorms - and more.
-
-## Big thanks to
-
-* [empyriangaming](https://twitch.tv/empyriangaming) - who allows me to use his channel where my bot can do whatever he wants to.
-* [syronee](https://twitch.tv/syronee) - a friend which allows me to use my bot in his channel
