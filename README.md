@@ -41,7 +41,12 @@ SlatyBot is an IRC Chatbot for twitch.tv.
 
 ## General
 
-You can report issues here.
+You can report issues, enhancement ideas and more here.
+
+SlatyBot is a irc twitch moderation chat bot and a streamer Dashboard. You can see your subscribers and tier-level, followers, add commands to the bot, play commercials as a partner and more.
+The Project itself got moved to closed source.
+
+SlatyBot will be maintained and programmed by [**Slatyoo**](https://github.com/slatyo) and [**marcreichel**](https://github.com/marcreichel).
 
 ## Authors 
 
@@ -55,3 +60,5 @@ You can report issues here.
 
 You can join our [Discord](https://discord.gg/XuHNPkC) if you want.
 There we discuss further steps - do brainstorms - and more.
+
+Thanks for your interest in SlatyBot and your support.
