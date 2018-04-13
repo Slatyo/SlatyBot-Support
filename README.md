@@ -5,51 +5,51 @@ SlatyBot is an IRC Chatbot for twitch.tv.
 ![SlatyBot startscreen](https://i.imgur.com/dvKDF0B.png "SlatyBot Startscreen")
 
 <details>
- <summary>Dashboard Home</summary>
+ <summary>Dashboard Home</summary>  
 
- ![SlatyBot Home](https://i.imgur.com/f7r6498.png "SlatyBot Dashboard Home")
+ ![SlatyBot Home](https://i.imgur.com/f7r6498.png "SlatyBot Dashboard Home")  
  
- ![SlatyBotChatters](https://i.imgur.com/yxabhyH.png "SlatyBot Dashboard Home Top Chatters")
+ ![SlatyBotChatters](https://i.imgur.com/yxabhyH.png "SlatyBot Dashboard Home Top Chatters")  
 
 
 </details>
 
 <details>
- <summary>Dashboard Subscriber</summary>
+ <summary>Dashboard Subscriber</summary>  
 
- ![SlatyBot Dashboard](https://i.imgur.com/YnR3hiR.png "SlatyBot Dashboard Subscriber")
-
-</details>
-
-<details>
- <summary>Dashboard Follower</summary>
-
- ![SlatyBot Dashboard)](https://i.imgur.com/C6SLEDk.png "SlatyBot Dashboard Follower")
+ ![SlatyBot Dashboard](https://i.imgur.com/YnR3hiR.png "SlatyBot Dashboard Subscriber")  
 
 </details>
 
 <details>
- <summary>Dashboard Commands</summary>
+ <summary>Dashboard Follower</summary>  
 
- ![SlatyBot Dashboard](https://i.imgur.com/iRVuFg9.png "SlatyBot Dashboard Commands")
+ ![SlatyBot Dashboard)](https://i.imgur.com/C6SLEDk.png "SlatyBot Dashboard Follower")  
+
+</details>
+
+<details>
+ <summary>Dashboard Commands</summary>  
+
+ ![SlatyBot Dashboard](https://i.imgur.com/iRVuFg9.png "SlatyBot Dashboard Commands")  
  
- ![SlatyBot Dashboard](https://i.imgur.com/L77MVyZ.png "SlatyBot Dashboard Commands")
+ ![SlatyBot Dashboard](https://i.imgur.com/L77MVyZ.png "SlatyBot Dashboard Commands")  
  
- ![SlatyBot Dashboard](https://i.imgur.com/fxcKBr9.png "SlatyBot Dashboard Commands")
+ ![SlatyBot Dashboard](https://i.imgur.com/fxcKBr9.png "SlatyBot Dashboard Commands")  
 
 </details>
 
 <details>
- <summary>Dashboard Blacklist</summary>
+ <summary>Dashboard Blacklist</summary>  
 
- ![SlatyBot Dashboard](https://i.imgur.com/E1rBe3g.png "SlatyBot Dashboard Blacklist")
+ ![SlatyBot Dashboard](https://i.imgur.com/E1rBe3g.png "SlatyBot Dashboard Blacklist")  
 
 </details>
 
 <details>
- <summary>Twitch Chat</summary>
+ <summary>Twitch Chat</summary>  
 
- ![SlatyBot Chat Interaction](https://i.imgur.com/xhrH0fe.png "SlatyBot Chat")
+ ![SlatyBot Chat Interaction](https://i.imgur.com/xhrH0fe.png "SlatyBot Chat")  
  
 </details>
 
