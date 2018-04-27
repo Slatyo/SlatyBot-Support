@@ -1,4 +1,4 @@
-# SlatyBot http://slatybot.com
+# [SlatyBot](https://slatybot.com)
 
 SlatyBot is an IRC Chatbot for twitch.tv.
 
