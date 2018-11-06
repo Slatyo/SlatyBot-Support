@@ -73,6 +73,7 @@ SlatyBot will be maintained and programmed by [**Slatyoo**](https://github.com/s
 ## Extras
 
 You can join our [Discord](https://discord.gg/XuHNPkC) if you want.
-There we discuss further steps - do brainstorms - and more.
+There we discuss further steps - do brainstorms - and more.  
+You also can ask me anything at [Twitter](https://twitter.com/slatyoo).
 
 Thanks for your interest in SlatyBot and your support.
