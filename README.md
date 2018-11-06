@@ -96,7 +96,7 @@ We are using Laravel to develop the dashboard and the bot.
 *MySQL*  
 The standard - we are using MariaDB.  
   
-*JavaScript* 
+*JavaScript*  
 For now we are using jQuery as the framework behind JavaScript. 
 For the near future we want to use Anguluar.  
   
