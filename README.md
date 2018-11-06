@@ -98,7 +98,7 @@ The standard - we are using MariaDB.
   
 *JavaScript*  
 For now we are using jQuery as the framework behind JavaScript. 
-For the near future we want to use Anguluar.  
+For the near future we want to use Angular.  
   
 *Frontend*  
 SCSS and Bootstrap so far 
