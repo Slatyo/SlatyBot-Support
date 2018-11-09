@@ -131,6 +131,6 @@ Thats like a small insight to how we work - of course there is more but this alw
 Don't worry!  
   
 If you want more information to how we handle the project you can always ask me!  
-You can find me at [Twitter](https://twitter.com/slatyoo) or find us at our [Discord](https://discord.gg/XuHNPkC)!  
+You can contact us via [Mail](mailto:business@slatybot.com) or [Discord](https://discord.gg/XuHNPkC).  
   
 ***THANKS FOR CONTRIBUTING***
