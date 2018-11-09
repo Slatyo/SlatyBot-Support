@@ -72,6 +72,7 @@ SlatyBot will be maintained and programmed by [**Slatyoo**](https://github.com/s
 ## Contributors
 
 * [**marcreichel**](https://github.com/marcreichel)
+* [**SerethiX**](https://github.com/SerethiX)
 
 ## Extras
 
